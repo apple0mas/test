@@ -1,6 +1,4 @@
 abc
 
 
-asd
-
-branch2
+master
